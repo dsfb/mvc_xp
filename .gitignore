@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# Old source files
+*.java~
+
 # Log file
 *.log
 
